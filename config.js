@@ -29,10 +29,10 @@ export const config = {
         host: 'http://127.0.0.1:3000'
     },
     greetings_preprod: {
-        host: 'http://127.0.0.1:5000'
+        host: 'http://127.0.0.1:3000'
     },
     greetings_prod: {
-        host: 'http://127.0.0.1:5000'
+        host: 'http://127.0.0.1:3000'
     }
 }
 
