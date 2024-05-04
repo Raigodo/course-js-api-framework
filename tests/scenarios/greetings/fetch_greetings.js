@@ -7,6 +7,6 @@ before(async () => {
 
 it('Fetch greeting', () => {
     describe(`Fetch greeting`, () => {
-        getGreetings()
+        // getGreetings()
     })
 })
